@@ -1,0 +1,11 @@
+{
+  "name": {
+    "message": "Ростелеком анти-DPI"
+  },
+  "short_name": {
+    "message": "rt-dpi-evade"
+  },
+  "description": {
+    "message": "Избегает вставки рекламы системой DPI Ростелекома"
+  }
+}

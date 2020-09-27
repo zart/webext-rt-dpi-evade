@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "RT DPI evade",
+    "description": "extension name"
+  },
+  "short_name": {
+    "message": "rt-dpi-evade",
+    "description": "short extension name"
+  },
+  "description": {
+    "message": "Evade Rostelecom DPI ad injection",
+    "description": "extension description"
+  }
+}
